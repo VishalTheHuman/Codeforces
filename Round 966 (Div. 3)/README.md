@@ -1,0 +1,1 @@
+[Codeforces Round 966 (Div. 3)](https://codeforces.com/contest/2000)
